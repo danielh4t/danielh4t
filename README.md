@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @danielh4t
-- 👀 I’m interested in learning and programming
+- 👀 I’m interested in code
 - 🌱 I’m currently learning machine learning
+
+[Portfolio](https://danielh4t.vercel.app)
 
 <!---
 danielh4t/danielh4t is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
