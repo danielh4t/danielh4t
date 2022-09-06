@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @danielh4t
+- 👋 Hi, I’m Daniel
 - 👀 I’m interested in code
 - 🌱 I’m currently learning machine learning
 
