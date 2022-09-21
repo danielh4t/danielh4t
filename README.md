@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in code
-- 🌱 I’m currently learning machine learning
-
+- Hi, I’m Daniel 
+<img src="https://raw.githubusercontent.com/danielh4t/danielh4t/main/public/party.gif" width="24px">
 [Portfolio](https://danielh4t.vercel.app)
 
 <!---
